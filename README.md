@@ -1,3 +1,8 @@
-# peterkagey.github.io
+# Main title
 
-Let's test out math. $$x^2 + 1$$ or maybe \(x^3 + 1\) or possibly $x^4+1$.
+Let's test out math such as $$x^2 + 1$$.
+
+## Subsection: list
+
+- This is the first item in a list.
+- This is the second bullet.
